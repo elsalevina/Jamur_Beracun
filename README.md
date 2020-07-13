@@ -34,3 +34,4 @@ __Requirements:__
 - Buat model yang dapat mengklasifikasikan jamur beracun dan tidak. Algoritma model bebas.
 - Tentukan & hitung metriks evaluasi model.
 - Gambarkan plot ROC AUC model.
+
